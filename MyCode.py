@@ -17,5 +17,5 @@ if __name__ == "__main__":
     sub_result = sub_numbers(num1, num2)
     print("The sum of {} and {} is: {}".format(num1, num2, add_result))
     print("The sub of {} and {} is: {}".format(num1, num2, sub_result))
-    print("END CI/CD benoted that code has been modified :)")
+    print("END CI/CD be noted that code has been modified :)")
 
